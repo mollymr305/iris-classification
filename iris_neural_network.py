@@ -103,5 +103,5 @@ if __name__ == '__main__':
     plt.xlabel('Epoch', size=20)
     plt.ylabel('Error (%)', size=20)
     plt.tight_layout()
-    plt.savefig('./output/iris_accuracy.jpg', format='jpg')
-    plt.savefig('./output/iris_accuracy.eps', format='eps')
+    plt.savefig('./output/iris_error.jpg', format='jpg')
+    plt.savefig('./output/iris_error.eps', format='eps')
