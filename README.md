@@ -4,4 +4,4 @@ Simple neural network for Iris dataset classification, using Python (Lasagne + T
 
 All results written in 'output' folder. Dataset taken from <https://archive.ics.uci.edu/ml/datasets/Iris>.
 
-<img src="./output/iris_accuracy.jpg">
+<img src="./output/iris_error.jpg">
